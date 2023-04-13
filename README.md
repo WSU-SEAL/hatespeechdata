@@ -81,6 +81,19 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="Arabic-header"></a>
 ### Arabic
+#### Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language
+* Link to publication: [https://arxiv.org/abs/2103.10195](https://arxiv.org/abs/2103.10195) 
+* Link to data: [https://drive.google.com/file/d/1mM2vnjsy7QfUmdVUpKqHRJjZyQobhTrW/view](https://drive.google.com/file/d/1mM2vnjsy7QfUmdVUpKqHRJjZyQobhTrW/view)
+* Task description: Binary (misogyny/none) and Multi-class (none, discredit, derailing, dominance, stereotyping & objectiﬁcation, threat of violence, sexual harassment, damning)
+* Details of task: Introducing an Arabic Levantine Twitter dataset for Misogynistic language
+* Size of dataset: 6,603 direct tweet replies
+* Percentage abusive: 48.76%
+* Language: Arabic
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text
+* Reference: Hala Mulki and Bilal Ghanem. 2021. Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language. In Proceedings of the Sixth Arabic Natural Language Processing Workshop, pages 154–163, Kyiv, Ukraine (Virtual). Association for Computational Linguistics
+
 #### Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere
 * Link to publication: [https://ieeexplore.ieee.org/document/8508247](https://ieeexplore.ieee.org/document/8508247)
 * Link to data: [https://github.com/nuhaalbadi/Arabic_hatespeech](https://github.com/nuhaalbadi/Arabic_hatespeech)
@@ -193,6 +206,20 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="Croatian-header"></a>
 ### Croatian
+
+#### CoRAL: a Context-aware Croatian Abusive Language Dataset
+* Link to publication: [https://aclanthology.org/2022.findings-aacl.21/](https://aclanthology.org/2022.findings-aacl.21/)
+* Link to data: [https://github.com/shekharRavi/CoRAL-dataset-Findings-of-the-ACL-AACL-IJCNLP-2022](https://github.com/shekharRavi/CoRAL-dataset-Findings-of-the-ACL-AACL-IJCNLP-2022)
+* Task description: Multi-class based on context dependency categories (CDC) 
+* Details of task: Detectioning CDC from abusive comments 
+* Size of dataset: 2,240 
+* Percentage abusive: 100% 
+* Language: Croatian 
+* Level of annotation: Posts 
+* Platform: Newspaper comments  
+* Medium: Text 
+* Reference: Ravi Shekhar, Mladen Karan and Matthew Purver (2022). CoRAL: a Context-aware Croatian Abusive Language Dataset. Findings of the ACL: AACL-IJCNLP. 
+
 #### Datasets of Slovene and Croatian Moderated News Comments
 * Link to publication: [https://www.aclweb.org/anthology/W18-5116](https://www.aclweb.org/anthology/W18-5116)
 * Link to data: [http://hdl.handle.net/11356/1202](http://hdl.handle.net/11356/1202)
@@ -266,6 +293,18 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="English-header"></a>
 ### English
+#### Large-Scale Hate Speech Detection with Cross-Domain Transfer
+* Link to publication: [https://aclanthology.org/2022.lrec-1.238/](https://aclanthology.org/2022.lrec-1.238/)
+* Link to data: [https://github.com/avaapm/hatespeech](https://github.com/avaapm/hatespeech) 
+* Task description: Three-class (Hate speech, Offensive language, None)
+* Details of task: Hate speech detection on social media (Twitter) including 5 target groups (gender, race, religion, politics, sports)
+* Size of dataset: 100k English (27593 hate, 30747 offensive, 41660 none)
+* Percentage abusive: 58.3%
+* Language: English
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text and image
+* Reference: Cagri Toraman, Furkan Şahinuç, Eyup Yilmaz. 2022. Large-Scale Hate Speech Detection with Cross-Domain Transfer. In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 2215–2225, Marseille, France. European Language Resources Association.
 
 #### ConvAbuse
 * Link to publication: [https://aclanthology.org/2021.emnlp-main.587/](https://aclanthology.org/2021.emnlp-main.587/)
@@ -1040,6 +1079,18 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
 
+#### CyberAgressionAdo-v1
+* Link to publication: ([url](https://hal.science/hal-03765860)) - link to the documentation and/or a data statement about the data
+* Link to data: ([url](https://github.com/aollagnier/CyberAgressionAdo-v1)) - direct download is preferred, e.g. a link straight to a .zip file
+* Task description:  The collected conversations have been annotated using a considering several layers, as the participant roles, the presence of hate speech, the type of verbal abuse present in the message, and whether utterances use different humour figurative devices (e.g., sarcasm or irony).
+* Details of task: This dataset allows to perform several subtasks related to the task of online hate detection in a conversational setting (hate speech detection, bullying participant role detection, verbal abuse detection, etc.)
+* Size of dataset: 19 conversations
+* Language: French
+* Level of annotation: exchanged messages 
+* Platform: collected from role playing games mimicking cyberagression situations occuring on private instant messaging platforms.
+* Medium: text (csv)
+* Reference: Anaïs Ollagnier, Elena Cabrio, Serena Villata, Catherine Blaya. CyberAgressionAdo-v1: a Dataset of Annotated Online Aggressions in French Collected through a Role-playing Game. Language Resources and Evaluation Conference, Jun 2022, Marseille, France. ⟨hal-03765860⟩
+
 <a id="German-header"></a>
 ### German
 #### RP-Mod & RP-Crowd: Moderator- and Crowd-Annotated German News Comment Datasets
@@ -1444,6 +1495,19 @@ https://www.aclweb.org/anthology/D17-1117)
 
 <a id="Russian-header"></a>
 ### Russian
+#### Automatic Toxic Comment Detection in Social Media for Russian
+* Link to publication: [https://github.com/alla-g/toxicity-detection-thesis/blob/main/toxicity_corpus/DATASTATEMENT.md](https://github.com/alla-g/toxicity-detection-thesis/blob/main/toxicity_corpus/DATASTATEMENT.md)
+* Link to data: [https://github.com/alla-g/toxicity-detection-thesis/blob/main/toxicity_corpus/russian_distorted_toxicity.tsv](https://github.com/alla-g/toxicity-detection-thesis/blob/main/toxicity_corpus/russian_distorted_toxicity.tsv)
+* Task description: Toxicity - binary (1 == toxic, 0 == not toxic), Distortion - binary (1 == has distortion, 0 == does not have distortion),
+* Details of task: 1) multitask Russian toxicity detection with distortion detection as an auxiliary task; 2) testing toxicity classifiers on parallel distorted and manually corrected data
+* Size of dataset: 3000 texts: 561 toxic, 2439 not toxic; 126 distorted, 2874 not distorted.
+* Percentage abusive: 18.7%
+* Language: Russian
+* Level of annotation: comment
+* Platform: VKontakte
+* Medium: text
+* Reference: Gorbunova, A. (2022). Automatic Toxic Comment Detection in Social Media for Russian \[Unpublished bachelor's thesis]. National Research University Higher School of Economics.
+
 #### Reducing Unintended Identity Bias in Russian Hate Speech Detection
 * Link to publication: [https://aclanthology.org/2020.alw-1.8.pdf](https://aclanthology.org/2020.alw-1.8.pdf)
 * Link to data: License Required (Last checked 17/01/2022)
@@ -1542,6 +1606,19 @@ https://www.aclweb.org/anthology/D17-1117)
 
 <a id="Turkish-header"></a>
 ### Turkish
+#### Large-Scale Hate Speech Detection with Cross-Domain Transfer
+* Link to publication: [https://aclanthology.org/2022.lrec-1.238/](https://aclanthology.org/2022.lrec-1.238/)
+* Link to data: [https://github.com/avaapm/hatespeech](https://github.com/avaapm/hatespeech) 
+* Task description: Three-class (Hate speech, Offensive language, None)
+* Details of task: Hate speech detection on social media (Twitter) including 5 target groups (gender, race, religion, politics, sports)
+* Size of dataset: 100k (7325 hate, 27140 offensive, 65535 none)
+* Percentage abusive: 34.5%
+* Language: Turkish
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text and image
+* Reference: Cagri Toraman, Furkan Şahinuç, Eyup Yilmaz. 2022. Large-Scale Hate Speech Detection with Cross-Domain Transfer. In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 2215–2225, Marseille, France. European Language Resources Association.
+
 #### A Corpus of Turkish Offensive Language on Social Media
 * Link to publication: [https://coltekin.github.io/offensive-turkish/troff.pdf](https://coltekin.github.io/offensive-turkish/troff.pdf)
 * Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home) 
